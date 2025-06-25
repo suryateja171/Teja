@@ -12,7 +12,7 @@
 #     print("x is equal to 7")
 # else:
 #      print("x is less than 10 and not equal to 7")
-
+#
 
 
 
