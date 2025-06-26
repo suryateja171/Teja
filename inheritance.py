@@ -69,28 +69,26 @@
 # student1.show_info()
 
 
-class Father:
-    def skills(self):
-        print("Skilled in driving")
+# class Father:
+#     def skills(self):
+#         print("Skilled in driving")
 
-class Mother:
-    def skills(self):
-        print("Skilled in cooking")
+# class Mother:
+#     def skills(self):
+#         print("Skilled in cooking")
 
-class Child(Father, Mother):
-    def skills(self):
-        # Call Father’s skills method
-        Father.skills(self)
-        # Call Mother’s skills method
-        Mother.skills(self)
-        # Child’s own message (optional)
-        print("Skilled in painting")
+# class Child(Father, Mother):
+#         Father.skills(self):
+#         # Call Mother’s skills method
+#         Mother.skills(self):
+#         # Child’s own message (optional)
+#         print("Skilled in painting")
 
-# Create an object of Child
-c = Child()
+# # Create an object of Child
+# c = Child()
 
-# Call the skills method
-c.skills()
+# # Call the skills method
+# c.skills()
 
 
 
