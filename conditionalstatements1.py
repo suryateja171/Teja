@@ -29,17 +29,20 @@
 
 
 
-units = int(input("enter:"))
-bill = 0
+# units = int(input("enter:"))
+# bill = 0
 
-if units <= 100:
-    bill = units * 5
-    print(" unit charge is 5 ruppes")
-elif units <= 200:
-    bill = units * 8
-    print(" unit charge is 8 ruppes")
-else:
-    print("unit charge is 12 ruppes")
-    bill = units * 12
+# if units <= 100:
+#     bill = units * 5
+#     print(" unit charge is 5 ruppes")
+# elif units <= 200:
+#     bill = units * 8
+#     print(" unit charge is 8 ruppes")
+# else:
+#     print("unit charge is 12 ruppes")
+#     bill = units * 12
 
-print(f"print your electricity bill: {bill} Rs")
+# print(f"print your electricity bill: {bill} Rs")
+
+
+#
