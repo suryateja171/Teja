@@ -14,8 +14,6 @@
 #      print("x is less than 10 and not equal to 7")
 #
 
-
-
 # x = 15
 # if x > 10:
 #     print("x is greater than 10")
