@@ -1,6 +1,5 @@
 # """
 # Mini Instagram Clone — single-file FastAPI app (SQLite)
-
 # Features:
 # - Register & Login (JWT auth)
 # - Create Post (caption + image_url)
