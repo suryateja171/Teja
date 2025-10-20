@@ -15,9 +15,14 @@
 #
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 print("student Branch Code")
 =======
 >>>>>>> Code
+=======
+
+
+>>>>>>> junior
 # x = 15
 # if x > 10:
 #     print("x is greater than 10")
@@ -45,12 +50,19 @@ print("student Branch Code")
 #     bill = units * 12
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # print(f"print your electricity bill: {bill} Rs")
 =======
+=======
+>>>>>>> junior
 # print(f"print your electricity bill: {bill} Rs")
 
 
 #
 
+<<<<<<< HEAD
 #
 >>>>>>> code
+=======
+#
+>>>>>>> junior

@@ -31,6 +31,7 @@
 # Encapculation task 1
 
 
+<<<<<<< HEAD
 # class Student:
 #     def __init__(self):
 #         self.__marks = 0
@@ -59,5 +60,35 @@
 # account = BankAccount()
 # account.deposit(5000)
 # print("")          
+=======
+class Student:
+    def __init__(self):
+        self.__marks = 0
+
+    def set_marks(self,marks):
+        self.__marks = marks
+
+    def get_marks(self):
+        return self.__marks
+s = Student()
+s.set_marks(85)
+print("Student Marks:", s.get_marks())
+
+print(s.__marks)
+
+
+
+class BankAccount:
+    def __init__(self):
+        self.__balance = 0
+    def deposit(self,balance):
+        self.__deposit += amount
+    def get_balance(self):
+        return self.__balance
+
+account = BankAccount()
+account.deposit(5000)
+print("")          
+>>>>>>> junior
     
 

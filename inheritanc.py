@@ -1,6 +1,10 @@
 # single inheritance 
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> junior
 # class Vehicle:
 #     def move(self):
 #         print("Vehicle is moving")
