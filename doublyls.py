@@ -54,5 +54,5 @@
 # dll.display_backward() 
        
 
-print("10 <-> 20 <-> 30 <-> None")
-print("30 <-> 20 <-> 10 <-> None")
+# print("10 <-> 20 <-> 30 <-> None")
+# print("30 <-> 20 <-> 10 <-> None")
