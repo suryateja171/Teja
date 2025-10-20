@@ -19,7 +19,6 @@
 # Notes:
 # - This is an educational MVP. No email verification, rate limiting, media uploads, or follow graph.
 # - Images are referenced by URL. Use any image URL to test.
-# """
 
 # from datetime import datetime, timedelta
 # from typing import List, Optional
