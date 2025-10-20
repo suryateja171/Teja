@@ -16,12 +16,17 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 print("student Branch Code")
 =======
 >>>>>>> Code
 =======
 
 
+=======
+print("student Branch Code")
+=======
+>>>>>>> student
 >>>>>>> junior
 # x = 15
 # if x > 10:
@@ -51,18 +56,26 @@ print("student Branch Code")
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # print(f"print your electricity bill: {bill} Rs")
 =======
 =======
 >>>>>>> junior
+=======
+# print(f"print your electricity bill: {bill} Rs")
+=======
+>>>>>>> student
 # print(f"print your electricity bill: {bill} Rs")
 
 
 #
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #
 >>>>>>> code
 =======
+=======
+>>>>>>> student
 #
 >>>>>>> junior

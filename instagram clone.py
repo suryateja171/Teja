@@ -1,6 +1,10 @@
 # """
 # Mini Instagram Clone — single-file FastAPI app (SQLite)
-
+<<<<<<< HEAD
+print("This is from CODE branch")
+=======
+print("This is from STUDENT branch")
+>>>>>>> student
 # Features:
 # - Register & Login (JWT auth)
 # - Create Post (caption + image_url)
