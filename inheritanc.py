@@ -1,7 +1,14 @@
 # single inheritance 
 
 
+<<<<<<< HEAD
+print("Student Branch")
+=======
+<<<<<<< HEAD
+=======
 
+>>>>>>> junior
+>>>>>>> student
 # class Vehicle:
 #     def move(self):
 #         print("Vehicle is moving")
@@ -117,8 +124,11 @@
 # pet_dog.bark()
 # pet_dog.pet_name()
 # pet_dog.play()
+<<<<<<< HEAD
 #
 
+=======
+>>>>>>> student
 
 
 
