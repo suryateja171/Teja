@@ -14,6 +14,10 @@
 #      print("x is less than 10 and not equal to 7")
 #
 
+<<<<<<< HEAD
+print("student Branch Code")
+=======
+>>>>>>> junior
 # x = 15
 # if x > 10:
 #     print("x is greater than 10")
@@ -40,4 +44,13 @@
 #     print("unit charge is 12 ruppes")
 #     bill = units * 12
 
+<<<<<<< HEAD
 # print(f"print your electricity bill: {bill} Rs")
+=======
+# print(f"print your electricity bill: {bill} Rs")
+
+
+#
+
+#
+>>>>>>> junior

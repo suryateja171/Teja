@@ -55,7 +55,11 @@
 
 # #MULTIPLE INHEHITANCE
 
+<<<<<<< HEAD
 # Task 1
+=======
+#Task 1
+>>>>>>> junior
 
 
 
@@ -76,7 +80,11 @@
 
 
 
+<<<<<<< HEAD
 # Task 2
+=======
+#Task 2
+>>>>>>> junior
 
 
 # class Employee:
@@ -96,7 +104,11 @@
 # i.details()
 
 
+<<<<<<< HEAD
 # Task 3
+=======
+#Task 3
+>>>>>>> junior
 
 
 # class Person:
@@ -136,7 +148,11 @@
 
 
 
+<<<<<<< HEAD
 # task 2
+=======
+#task 2
+>>>>>>> junior
 
 
 # class Shape:
@@ -160,7 +176,11 @@
 # s.describe()
 
 
+<<<<<<< HEAD
 # task 3
+=======
+#task 3
+>>>>>>> junior
 
 # class Employee:
 #     def job_role(self):
@@ -185,7 +205,11 @@
 
 
 
+<<<<<<< HEAD
 # task 3
+=======
+#task 3
+>>>>>>> junior
 
 
 
@@ -220,6 +244,7 @@
 
 
 # hybrid in heritance
+<<<<<<< HEAD
 # task 1
 
 
@@ -252,3 +277,11 @@
 # class Manager(Employee,Department):
 #     def __init__(self, name, id):
                     
+=======
+#task 1
+
+
+#
+
+
+>>>>>>> junior
