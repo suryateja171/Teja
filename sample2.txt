@@ -1,0 +1,10 @@
+Numbers, Strings, Lists, Tuples, Dictionaries
+num = 10
+pi = 3.14
+text = "Python"
+my_list = [1, 2, 3, 4]
+my_tuple = ("apple", "banana", "cherry")
+my_dict = {"name": "Surya", "age": 25}
+
+print(type(num))
+print(type(my_dict))
